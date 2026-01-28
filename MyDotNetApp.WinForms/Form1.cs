@@ -11,4 +11,9 @@ public partial class Form1 : Form
     {
         MessageBox.Show("Xin chao");
     }
+
+    private void button2_Click(object sender, EventArgs e)
+    {
+        MessageBox.Show("Tam biet");
+    }
 }
