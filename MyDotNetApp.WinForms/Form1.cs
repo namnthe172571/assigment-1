@@ -6,4 +6,14 @@ public partial class Form1 : Form
     {
         InitializeComponent();
     }
+
+    private void button1_Click(object sender, EventArgs e)
+    {
+        MessageBox.Show("Xin chao");
+    }
+
+    private void button2_Click(object sender, EventArgs e)
+    {
+        MessageBox.Show("Tam biet");
+    }
 }
